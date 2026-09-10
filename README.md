@@ -4,8 +4,8 @@
   <!--<img src="avatar.png" width="160" alt="Profile Picture" />-->
 
   <!-- Heading & Subtitles -->
-  <h1>Hi, I'm Joash</h1>
-  <p><strong>Solo Traveller</strong></p>
+  <h1>Hi There !, I'm Joash</h1>
+  <p><strong>Just Another Solo Traveller</strong></p>
   <p>Passionate about exploring the globe</p>
   <p>joashjeshurun9@protonmail.ch</p>
 
@@ -36,12 +36,13 @@
     <a href="https://instagram.com/alfred.joash"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
   </p>
 
-  <!-- Tech Stack / Skills -->
+  <!-- Tech Stack / Skills 
   <h3>Languages and Tools:</h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=arduino,blender,c,css,figma,html,ai,java,ps,php,py,unreal" alt="Tech Stack" />
     </a>
   </p>
+  -->
 
 </div>
