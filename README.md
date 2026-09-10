@@ -4,10 +4,8 @@
   <!--<img src="avatar.png" width="160" alt="Profile Picture" />-->
 
   <!-- Heading & Subtitles -->
-  <h1>Hi There !, I'm Joash</h1>
   <p><strong>Just Another Solo Traveller</strong></p>
-  <p>Passionate about exploring the globe</p>
-  <p>joashjeshurun9@protonmail.ch</p>
+
 
   <!-- Visitor Counter & Follow Badge -->
   <p>
@@ -25,6 +23,7 @@
     <a href="https://github.com/alfredjoejr">
       <img src="https://github-readme-stats-nine-smoky-55.vercel.app/api?username=alfredjoejr&show_icons=true&theme=dark" alt="GitHub Stats" />
     </a>
+    <br/>
     <a href="https://github.com/alfredjoejr">
       <img src="https://github-readme-stats-nine-smoky-55.vercel.app/api/top-langs/?username=alfredjoejr&layout=compact&theme=dark" alt="Top Languages" />
     </a>
