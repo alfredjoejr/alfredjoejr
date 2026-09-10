@@ -29,7 +29,7 @@
   <!-- Social Links -->
   <h3>Connect with me:</h3>
   <p>
-    <a href="mailto:joashjeshurun9@protonmail.ch"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="mailto:joashjeshurun9@protonmail.ch"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ProtonMail" /></a>
     <a href="https://instagram.com/alfred.joash"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
   </p>
 
