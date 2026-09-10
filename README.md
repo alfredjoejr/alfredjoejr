@@ -1,31 +1,31 @@
 <div align="center">
 
   <!-- Profile Image -->
-  <img src="avatar.png" width="160" alt="Profile Picture" />
+  <!--<img src="avatar.png" width="160" alt="Profile Picture" />-->
 
   <!-- Heading & Subtitles -->
-  <h1>Hi, I'm Your Name</h1>
+  <h1>Hi, I'm Joash</h1>
   <p><strong>Your Title | University or Organization</strong></p>
   <p>Passionate about Coding | Web Development | Robotics</p>
-  <p>(your.email@example.com)</p>
+  <p>(joashjeshurun9@protonmail.ch)</p>
 
   <!-- Visitor Counter & Follow Badge -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=alfredjoejr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
   <p>
-    <a href="https://github.com/YOUR_USERNAME">
+    <a href="https://github.com/alfredjoejr">
       <img src="https://img.shields.io/badge/FOLLOW%20ME-GITHUB-181717?style=for-the-badge&logo=github" alt="Follow GitHub" />
     </a>
   </p>
 
   <!-- GitHub Stats & Top Languages -->
   <p>
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <a href="https://github.com/alfredjoejr">
+      <img src="https://github-readme-stats.vercel.app/api?username=alfredjoejr&show_icons=true&theme=dark" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+    <a href="https://github.com/alfredjoejr">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjoejr&layout=compact&theme=dark" alt="Top Languages" />
     </a>
   </p>
 
