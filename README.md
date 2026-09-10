@@ -17,16 +17,11 @@
     </a>
   </p>
 
-  <!-- GitHub Stats & Top Languages -->
-<!-- GitHub Stats & Top Languages -->
   <p>
-
     <a href="https://github.com/alfredjoejr">
       <img src="https://github-readme-stats-nine-smoky-55.vercel.app/api/top-langs/?username=alfredjoejr&layout=compact&theme=dark" alt="Top Languages" />
     </a>
-    
     <br/>
-    
     <a href="https://github.com/alfredjoejr">
       <img src="https://github-readme-stats-nine-smoky-55.vercel.app/api?username=alfredjoejr&show_icons=true&theme=dark" alt="GitHub Stats" />
     </a>
