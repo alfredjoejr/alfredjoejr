@@ -18,11 +18,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/alfredjoejr">
-      <img src="https://github-readme-stats-nine-smoky-55.vercel.app/api/top-langs/?username=alfredjoejr&layout=compact&theme=dark" alt="Top Languages" />
-    </a>
-    
-  </p>
+
   <!-- Social Links -->
   <h3>Connect with me:</h3>
   <p>
