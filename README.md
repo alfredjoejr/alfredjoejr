@@ -15,9 +15,10 @@ Alongside building full-stack software and quantum systems, I spend a lot of my 
 - **Systems & Infra:** C/C++, Java, Docker, Linux, Networking (CCNA)
 
 **Currently working on**
-- **MidGuard / ScriptX** — AI-assisted exam script evaluation platform (Next.js, FastAPI, Gemini Vision)
 - **Market & Quant Research** — Experimenting with alpha generation, time-series modeling, and financial data analysis
 - **BLE Bridge** — Custom Bluetooth Low Energy utility for cross-ecosystem wearables
+- **MidGuard / ScriptX** — AI-assisted exam script evaluation platform (Next.js, FastAPI, Gemini Vision)
+
 
 ---
 
