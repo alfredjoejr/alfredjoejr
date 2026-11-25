@@ -5,6 +5,7 @@ Alongside building full-stack software and quantum systems, I spend a lot of my 
 
 ---
 
+
 **Focus Areas**
 - **Business & Markets:** Equity investing, fundamental analysis, business strategy, and quantitative research
 - **Engineering & AI:** Machine learning pipelines, full-stack applications, developer tools, and Quantum Computing
