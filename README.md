@@ -1,38 +1,25 @@
-<div align="center">
+### Hi, I'm Alfred Joash 👋
 
-  <!-- Profile Image -->
-  <!--<img src="avatar.png" width="160" alt="Profile Picture" />-->
+Primary interest in **business, stocks, and long-term investing**. 
+Alongside building full-stack software and quantum systems, I spend a lot of my time analyzing businesses, following global and local equity markets, and exploring quantitative research.
 
-  <!-- Heading & Subtitles -->
-  <p><strong>Just Another Solo Traveller</strong></p>
+---
 
+**Focus Areas**
+- **Business & Markets:** Equity investing, fundamental analysis, business strategy, and quantitative research
+- **Engineering & AI:** Machine learning pipelines, full-stack applications, developer tools, and Quantum Computing
 
-  <!-- Visitor Counter & Follow Badge -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=alfredjoejr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-  <p>
-    <a href="https://github.com/alfredjoejr">
-      <img src="https://img.shields.io/badge/FOLLOW%20ME-GITHUB-181717?style=for-the-badge&logo=github" alt="Follow GitHub" />
-    </a>
-  </p>
+**Tech Stack**
+- **AI & Data:** Python, PyTorch, LangGraph, OpenCV, Qiskit
+- **Web & Backend:** TypeScript, React, Next.js, FastAPI, Laravel, Supabase, MySQL
+- **Systems & Infra:** C/C++, Java, Docker, Linux, Networking (CCNA)
 
-  <p>
+**Currently working on**
+- **MidGuard / ScriptX** — AI-assisted exam script evaluation platform (Next.js, FastAPI, Gemini Vision)
+- **Market & Quant Research** — Experimenting with alpha generation, time-series modeling, and financial data analysis
+- **BLE Bridge** — Custom Bluetooth Low Energy utility for cross-ecosystem wearables
 
-  <!-- Social Links -->
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="mailto:joashjeshurun9@protonmail.ch"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ProtonMail" /></a>
-    <a href="https://instagram.com/alfred.joash"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
-  </p>
+---
 
-  <!-- Tech Stack / Skills 
-  <h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,blender,c,css,figma,html,ai,java,ps,php,py,unreal" alt="Tech Stack" />
-    </a>
-  </p>
-  -->
-
-</div>
+[![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:joashjeshurun9@protonmail.ch)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8372--9340-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8372-9340)
